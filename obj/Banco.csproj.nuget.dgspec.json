@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\CAMILLIFRIGERIFELIZ\\Downloads\\Banco\\Banco.csproj": {}
+    "c:\\Users\\CAMILLIFRIGERIFELIZ\\Downloads\\Arrays-Cs\\Banco.csproj": {}
   },
   "projects": {
-    "c:\\Users\\CAMILLIFRIGERIFELIZ\\Downloads\\Banco\\Banco.csproj": {
+    "c:\\Users\\CAMILLIFRIGERIFELIZ\\Downloads\\Arrays-Cs\\Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\CAMILLIFRIGERIFELIZ\\Downloads\\Banco\\Banco.csproj",
+        "projectUniqueName": "c:\\Users\\CAMILLIFRIGERIFELIZ\\Downloads\\Arrays-Cs\\Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "c:\\Users\\CAMILLIFRIGERIFELIZ\\Downloads\\Banco\\Banco.csproj",
+        "projectPath": "c:\\Users\\CAMILLIFRIGERIFELIZ\\Downloads\\Arrays-Cs\\Banco.csproj",
         "packagesPath": "C:\\Users\\CAMILLIFRIGERIFELIZ\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\CAMILLIFRIGERIFELIZ\\Downloads\\Banco\\obj\\",
+        "outputPath": "c:\\Users\\CAMILLIFRIGERIFELIZ\\Downloads\\Arrays-Cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CAMILLIFRIGERIFELIZ\\AppData\\Roaming\\NuGet\\NuGet.Config"
